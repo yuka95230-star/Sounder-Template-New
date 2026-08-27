@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.stand.yuka_hantai'
+    namespace 'com.stand.sounder_template'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.stand.sounder.template"
+        applicationId "com.stand.yuka.hantai"
         minSdk 23
         targetSdk 36
         versionCode 1
